@@ -7,6 +7,9 @@ Integrantes:
 - Armijo Ramos, Carlos
 - Sullca Espinoza, Kritzan
 
+  Prototipo 1: https://www.figma.com/file/JRPBJsXlBQzx9gRMo37Sp6/LearnFrench?type=design&node-id=0%3A1&mode=design&t=AZuRHh5yE6NCPbti-1
+  Prototipo 2: https://app.visily.ai/projects/9802071b-98f4-4ca0-8137-57db25e879aa/boards/900418 
+
 ## Descripción de los usuarios potenciales
 
 Los usuarios potenciales de tu aplicación de asistencia para el aprendizaje de un idioma extranjero son una audiencia diversa que incluye desde principiantes hasta estudiantes avanzados. Estos usuarios pueden tener diferentes motivaciones para aprender un nuevo idioma, desde viajar y trabajar en el extranjero hasta fines académicos o personales. Además, los usuarios pueden tener diferentes estilos de aprendizaje y preferencias en términos de interactividad, ritmo de estudio y contenido personalizado. La aplicación debe tener en cuenta toda esta variedad y diseñarse con esta en mente.
