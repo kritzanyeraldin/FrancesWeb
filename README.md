@@ -33,7 +33,11 @@ Los usuarios potenciales de tu aplicación de asistencia para el aprendizaje de 
    - Un usuario debe poder explorar y acceder a varios tipos de contenido, incluyendo lecciones interactivas, lecciones de gramática, y un vocabulario/diccionario con buscador.
      -Casos de uso: - Un usuario busca lecciones específicas utilizando filtros como nivel de dificultad, tema y tipo de contenido. - Un usuario genera material de lectura y/o conversaciones relacionado con su área de interés o nivel de competencia.
 
-3. Seguimiento del progreso y evaluación
+3. Pronunciación mediante interfaz de voz
+Un usuario mediante lecciones puede hacer uso de la interfaz de voz que ofrece la aplicación para repetir la frase que ofrece el ejercicio.
+
+
+4. Seguimiento del progreso y evaluación
    - Los usuarios deben poder realizar un seguimiento de su progreso de aprendizaje y recibir retroalimentación sobre su desempeño en diferentes áreas del idioma.
    - Casos de uso:
      - Un usuario consulta su tablero de progreso para ver estadísticas sobre su tiempo de estudio, puntajes de pruebas y áreas de fortaleza y debilidad.
@@ -66,6 +70,13 @@ Los usuarios potenciales de tu aplicación de asistencia para el aprendizaje de 
    - Pasos:
      - Un administrador define la gramatica para aprender el idioma frances. El administrador genera un prompt con las especificaciones que necesita para generar la gramtica (temas y contenido).
        El LLM procesa el prompt ingresado y retorna una respuesta. EL administrador guarda la respuesta en la base de datos, en caso de ser válida sino genera otro prompt hasta obtener la respuesta deseada.
+
+5. Definir Preguntas de clasificación
+- Un administrador necesita definir el contenido que tendrá la clasificación.
+   - Pasos:
+     - Un administrador define las preguntas para clasificar un usuario de acuerdo a los niveles definidos anteriormente para aprender el idioma francés. El administrador genera un prompt con las especificaciones que necesita (preguntas, opciones, respuesta correcta).
+       El LLM procesa el prompt ingresado y retorna una respuesta. EL administrador guarda la respuesta en la base de datos, en caso de ser válida sino genera otro prompt hasta obtener la respuesta deseada.
+
 
 ## Análisis del sistema usado
 
