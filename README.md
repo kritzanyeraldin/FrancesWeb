@@ -113,7 +113,7 @@ Un usuario mediante lecciones puede hacer uso de la interfaz de voz que ofrece l
 
 - Análisis de sistemas existentes: Se examinaron sistemas existentes similares, tanto dentro como fuera del dominio del aprendizaje de idiomas, para identificar características comunes, puntos fuertes y deficiencias. Esto permitió comprender las tendencias actuales en el diseño de aplicaciones y evaluar qué aspectos podrían adaptarse o mejorarse en el contexto específico del proyecto.
 
-- Entrevistas y encuestas a usuarios potenciales: Se llevaron a cabo entrevistas y encuestas con usuarios potenciales de la aplicación, como estudiantes de idiomas. Estas interacciones proporcionaron una comprensión más profunda de las necesidades, expectativas y preferencias de los usuarios, así como comentarios directos sobre qué características serían más valoradas.
+
 
 ## Análisis de Usuarios
 
