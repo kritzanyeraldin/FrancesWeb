@@ -28,16 +28,23 @@ Los usuarios potenciales de tu aplicación de asistencia para el aprendizaje de 
      - Un usuario nuevo se registra en la aplicación.
      - Un usuario existente inicia sesión en la aplicación para restaurar su progreso.
 
-2. Exploración de contenido
+2. Clasificación por niveles
+Un usuario debe poder realizar un test de clasificación si lo desea, caso contrario se le asigna el nivel más básico.
+Caso de Uso: Un usuario selecciona sí puede comenzar con el test, al terminar el test se le clasifica según los niveles que se definen, luego podrá iniciar con el aprendizaje del idioma francés. Si el usuario elige no comenzar con el test se le clasifica en el nivel más básico, luego podrá empezar a iniciar con el aprendizaje del idioma francés. 
+3. Exploración de niveles, subniveles y lecciones
+Un usuario debe poder acceder al nivel/subnivel  en el que se encuentra
+	Caso de Uso: Un usuario selecciona el subnivel del nivel en el que se encuentra, para          poder empezar con el aprendizaje.
+
+4. Exploración de contenido de lecciones, gramática y vocabulario
 
    - Un usuario debe poder explorar y acceder a varios tipos de contenido, incluyendo lecciones interactivas, lecciones de gramática, y un vocabulario/diccionario con buscador.
-     -Casos de uso: - Un usuario busca lecciones específicas utilizando filtros como nivel de dificultad, tema y tipo de contenido. - Un usuario genera material de lectura y/o conversaciones relacionado con su área de interés o nivel de competencia.
+     -Casos de uso: - Un usuario busca lecciones específicas dependiendo en que nivel se encuentre, tema y tipo de contenido. - Un usuario genera material de lectura y/o conversaciones relacionadas con su área de interés o nivel de competencia.
 
-3. Pronunciación mediante interfaz de voz
+5. Pronunciación mediante interfaz de voz
 Un usuario mediante lecciones puede hacer uso de la interfaz de voz que ofrece la aplicación para repetir la frase que ofrece el ejercicio.
+Caso de Uso: Mientras el usuario realiza las lecciones se le proponen ejercicios de pronunciación con audio incorporado. El sistema ofrece una frase escrita y por audio. EL usuario hace manejo de la interfaz de voz para poder pronunciar lo que lee/escucha.
 
-
-4. Seguimiento del progreso y evaluación
+6. Seguimiento del progreso y evaluación
    - Los usuarios deben poder realizar un seguimiento de su progreso de aprendizaje y recibir retroalimentación sobre su desempeño en diferentes áreas del idioma.
    - Casos de uso:
      - Un usuario consulta su tablero de progreso para ver estadísticas sobre su tiempo de estudio, puntajes de pruebas y áreas de fortaleza y debilidad.
